@@ -1,1 +1,3 @@
 # hydoPot
+
+od dawna mam pomysł by stworzyć terrarium do hodowania roślin, gdzie kontrolowany jest cykl dzień/noc, natężenie światła led, nawilżenie gleby i powietrza, konieczność nawodnienia i nawożenia, temperatura, wystarczająca ilość CO2 w powietrzu by roślina mogła przeprowadzać fotosyntezę, do tego wiatrak/wentylacja by zapewnić cyrkulacje powietrza i ogólnie system, który pozwala wgrać tryb/ ustawienia które są poprawne dla rozwoju danej rośliny i tryby oświetlenia (np 18h światła, 6h ciemności itd) i ogólnie to mają być do wyboru tryby, np dla pomidorów, papryki, kocimiętki. system ma opierać się na STMce 32
